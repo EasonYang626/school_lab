@@ -1,0 +1,14 @@
+﻿  patricia_search.c
+e:\program_code\lab2\patricia_search\patricia_search\patricia_search.c(126): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+e:\program_code\lab2\patricia_search\patricia_search\patricia_search.c(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab2\patricia_search\patricia_search\patricia_search.c(117): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab2\patricia_search\patricia_search\patricia_search.c(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab2\patricia_search\patricia_search\patricia_search.c(119): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\program_code\lab2\patricia_search\patricia_search\patricia_search.c(127): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+  patricia_search.vcxproj -> E:\program_code\lab2\patricia_search\Debug\patricia_search.exe
+  patricia_search.vcxproj -> E:\program_code\lab2\patricia_search\Debug\patricia_search.pdb (Full PDB)

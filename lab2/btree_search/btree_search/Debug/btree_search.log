@@ -1,0 +1,18 @@
+﻿  btree_search.c
+e:\program_code\lab2\btree_search\btree_search\btree_search.c(27): warning C4013: “malloc”未定义；假设外部返回 int
+e:\program_code\lab2\btree_search\btree_search\btree_search.c(27): warning C4047: “return”:“void *”与“int”的间接级别不同
+e:\program_code\lab2\btree_search\btree_search\btree_search.c(127): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\program_code\lab2\btree_search\btree_search\btree_search.c(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab2\btree_search\btree_search\btree_search.c(182): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab2\btree_search\btree_search\btree_search.c(183): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab2\btree_search\btree_search\btree_search.c(186): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\program_code\lab2\btree_search\btree_search\btree_search.c(194): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\program_code\lab2\btree_search\btree_search\btree_search.c(67): warning C4715: “search”: 不是所有的控件路径都返回值
+  btree_search.vcxproj -> E:\program_code\lab2\btree_search\Debug\btree_search.exe
+  btree_search.vcxproj -> E:\program_code\lab2\btree_search\Debug\btree_search.pdb (Full PDB)

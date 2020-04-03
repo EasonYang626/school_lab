@@ -1,0 +1,24 @@
+﻿  bf_search.c
+e:\program_code\lab1\bf_search\bf_search\bf_search.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(21): warning C4013: “malloc”未定义；假设外部返回 int
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(21): warning C4047: “return”:“void *”与“int”的间接级别不同
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(176): warning C4013: “free”未定义；假设外部返回 int
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(213): warning C4098: “test”:“void”函数返回值
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(207): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(208): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(209): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(335): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(336): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(337): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(340): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\program_code\lab1\bf_search\bf_search\bf_search.c(354): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+  bf_search.vcxproj -> E:\program_code\lab1\bf_search\Debug\bf_search.exe
+  bf_search.vcxproj -> E:\program_code\lab1\bf_search\Debug\bf_search.pdb (Full PDB)

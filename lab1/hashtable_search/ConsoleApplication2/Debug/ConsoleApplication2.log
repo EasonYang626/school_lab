@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  hashtable_search.c
+e:\program_code\lab1\hashtable_search\consoleapplication2\hashtable_search.c(21): warning C4013: “malloc”未定义；假设外部返回 int
+e:\program_code\lab1\hashtable_search\consoleapplication2\hashtable_search.c(21): warning C4047: “return”:“void *”与“int”的间接级别不同
+e:\program_code\lab1\hashtable_search\consoleapplication2\hashtable_search.c(32): warning C4090: “初始化”: 不同的“const”限定符
+e:\program_code\lab1\hashtable_search\consoleapplication2\hashtable_search.c(33): warning C4090: “初始化”: 不同的“const”限定符
+e:\program_code\lab1\hashtable_search\consoleapplication2\hashtable_search.c(96): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\program_code\lab1\hashtable_search\consoleapplication2\hashtable_search.c(131): warning C4013: “free”未定义；假设外部返回 int
+e:\program_code\lab1\hashtable_search\consoleapplication2\hashtable_search.c(144): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab1\hashtable_search\consoleapplication2\hashtable_search.c(145): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab1\hashtable_search\consoleapplication2\hashtable_search.c(146): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab1\hashtable_search\consoleapplication2\hashtable_search.c(148): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\program_code\lab1\hashtable_search\consoleapplication2\hashtable_search.c(155): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+  ConsoleApplication2.vcxproj -> E:\program_code\lab1\hashtable_search\Debug\hashtable_search.exe
+  ConsoleApplication2.vcxproj -> E:\program_code\lab1\hashtable_search\Debug\hashtable_search.pdb (Full PDB)

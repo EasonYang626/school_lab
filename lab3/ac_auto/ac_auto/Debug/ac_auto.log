@@ -1,0 +1,31 @@
+﻿  ac_auto.c
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(140): warning C4013: “split”未定义；假设外部返回 int
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(156): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(163): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(175): warning C4090: “初始化”: 不同的“const”限定符
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(176): warning C4090: “初始化”: 不同的“const”限定符
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(204): warning C4244: “函数”: 从“__int64”转换到“std::size_t”，可能丢失数据
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(206): warning C4244: “函数”: 从“__int64”转换到“std::size_t”，可能丢失数据
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(211): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(200): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(209): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(210): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(221): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(245): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(251): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\program_code\lab3\ac_auto\ac_auto\ac_auto.c(252): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  ac_auto.vcxproj -> E:\program_code\lab3\ac_auto\Debug\ac_auto.exe
+  ac_auto.vcxproj -> E:\program_code\lab3\ac_auto\Debug\ac_auto.pdb (Full PDB)
